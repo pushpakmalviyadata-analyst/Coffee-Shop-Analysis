@@ -14,3 +14,16 @@ Category & Size Distribution
 Power BI / Excel
 Data Analysis
 Data Visualization
+
+📌 Project Overview
+This dashboard provides a complete analysis of coffee shop operations by visualizing:
+Total Sales
+Customer Footfall
+Average Bill Per Person
+Average Orders Per Person
+Product Category Distribution
+Store-wise Performance
+Hourly Order Trends
+Day-wise Order Analysis
+Top Selling Products
+The dashboard helps businesses make data-driven decisions by identifying peak sales hours, best-selling products, customer ordering patterns, and high-performing store locations.
